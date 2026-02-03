@@ -23,7 +23,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Solace. All rights reserved.
+            © PRK. All rights reserved.
           </p>
         </motion.div>
       </div>
